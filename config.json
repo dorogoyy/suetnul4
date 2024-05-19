@@ -61,7 +61,7 @@
         {
             "algo": "rx/0",
             "coin": null,
-            "url": "xmr.2miners.com:2222",
+            "url": "xmr-eu1.nanopool.org:10300",
             "user": "48PZKG9Zk1EGtnwQjMMZAA7Y9ApUXVs2zbhJd2kWVACJ7sd9r4f2MGs2PxURKqDMqq9h4PMTtKyubBh8PsooGNrL6LeT6qD",
             "pass": "salaam",
             "rig-id": null,
